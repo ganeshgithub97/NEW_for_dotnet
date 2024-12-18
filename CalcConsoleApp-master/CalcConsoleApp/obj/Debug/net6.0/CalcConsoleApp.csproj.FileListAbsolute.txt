@@ -1,0 +1,15 @@
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.exe
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.deps.json
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.runtimeconfig.json
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.dll
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.pdb
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.AssemblyInfo.cs
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.sourcelink.json
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.dll
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\refint\CalcConsoleApp.dll
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.pdb
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.genruntimeconfig.cache
+C:\Users\ganesh\Desktop\GIT\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\ref\CalcConsoleApp.dll
