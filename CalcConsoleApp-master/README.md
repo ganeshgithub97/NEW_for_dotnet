@@ -1,4 +1,4 @@
-# .NET Samples
+# .NET Samples - Ganesh Patil
 
 The code in this repository represents programs that demonstrate Math operations such as addition, multiplication.
 
