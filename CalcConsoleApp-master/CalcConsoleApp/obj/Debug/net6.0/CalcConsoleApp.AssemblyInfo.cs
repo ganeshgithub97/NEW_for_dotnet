@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2811100aea409840f6f2227ca9173557abd540")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b13131939119dfac6d2ba89489c27f2092f09eed")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
